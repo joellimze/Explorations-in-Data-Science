@@ -1,1 +1,1 @@
-# General-Assembly-Data-Science-Immersive-Projects
+# General Assembly Data Science Immersive Projects
